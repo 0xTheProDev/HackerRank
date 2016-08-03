@@ -1,7 +1,7 @@
 # CS50x Coding Contest 
 Link: https://www.hackerrank.com/cs50x-2016 
 
- ## Info 
+## Info 
 
 CS50 and HackerRank present the first-ever...
 
@@ -31,17 +31,18 @@ If you'd like to host CS50x Coding Contest 2016 in your area, whereby you'd coor
 
 Your team is welcome to work together online or in person by yourselves, but if you'd like to get together with classmates, here's who has volunteered to host so far, https://docs.google.com/spreadsheets/d/18sYLhhMSGNtHazR7OD7gB6ksPPK1I8eCh4JUPqXJB-k/pubhtml?gid=2045933910&single=true so far. If there's a host in your area, send them an email if you'd like to meet up!
 
- ## Prizes 
+## Prizes 
 
 Prizes will be awarded pseudorandomly to (a few) teams who answer the most questions correctly.
- ## Rules
+
+## Rules
 
 * Please refrain from discussing strategy during the contest.
 * All submissions are run through a plagiarism detector. Any case of code plagiarism will disqualify both users from the contest.
 * You can also code using our interface, which currently supports over 40 major languages. Learn about our environment and time limits here. If you are not yet familiar with our platform, check out Solve Me First to acquaint yourself with I/O.
 * HackerRank admin decisions are final.
 
- ## Scoring 
+## Scoring 
 
 >   Each challenge has a pre-determined score.
     Your score for a problem depends on the number of test cases your submission successfully passes.
