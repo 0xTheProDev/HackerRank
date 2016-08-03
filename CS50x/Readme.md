@@ -1,16 +1,16 @@
-# CS50x Coding Contest
-Link: https://www.hackerrank.com/cs50x-2016
+<center> # CS50x Coding Contest </center>
+<center> Link: https://www.hackerrank.com/cs50x-2016 </center>
 
-## Info
+<center> ## Info </center>
 
 CS50 and HackerRank present the first-ever...
 
-# CS50x CODING CONTEST 2016
+### CS50x CODING CONTEST 2016
 an epic weekend of code
 
 Open to CS50x students around the world (and friends). Solve as many problems (in C!) as you can!
 
-# HOW TO PARTICIPATE
+### HOW TO PARTICIPATE
 
   1. Sign up for a (free) HackerRank account at https://www.hackerrank.com/signup.
   2. Register yourself with CS50 for CS50x Coding Contest 2016 at http://cs50.edx.org/register.
@@ -19,19 +19,19 @@ Open to CS50x students around the world (and friends). Solve as many problems (i
 
 If you'd like to familiarize yourself with HackerRank's interface before CS50x Coding Contest 2016 begins, sign up for some practice challenges at https://www.hackerrank.com/cs50x-2016-practice! No need to create a team to practice.
 
-# LOOKING FOR TEAMMATES?
+### LOOKING FOR TEAMMATES?
 
 Visit http://cs50.edx.org/teammates! Then keep an eye on https://docs.google.com/spreadsheets/d/14lYm4_sztShZ_GtBugrcB8FMhpsDzSC8WZUc4YK8Mb4/pubhtml?gid=769158438&single=true.
 
-# WANT TO HOST?
+### WANT TO HOST?
 
 If you'd like to host CS50x Coding Contest 2016 in your area, whereby you'd coordinate a time and place for your team and others to gather, let us know at http://cs50.edx.org/host!
 
-# WHO'S HOSTING SO FAR?
+### WHO'S HOSTING SO FAR?
 
 Your team is welcome to work together online or in person by yourselves, but if you'd like to get together with classmates, here's who has volunteered to host so far, https://docs.google.com/spreadsheets/d/18sYLhhMSGNtHazR7OD7gB6ksPPK1I8eCh4JUPqXJB-k/pubhtml?gid=2045933910&single=true so far. If there's a host in your area, send them an email if you'd like to meet up!
 
-## Prizes
+<center> ## Prizes </center>
 
 Prizes will be awarded pseudorandomly to (a few) teams who answer the most questions correctly.
 ## Rules
@@ -41,7 +41,7 @@ Prizes will be awarded pseudorandomly to (a few) teams who answer the most quest
 * You can also code using our interface, which currently supports over 40 major languages. Learn about our environment and time limits here. If you are not yet familiar with our platform, check out Solve Me First to acquaint yourself with I/O.
 * HackerRank admin decisions are final.
 
-## Scoring
+<center> ## Scoring </center>
 
 >   Each challenge has a pre-determined score.
     Your score for a problem depends on the number of test cases your submission successfully passes.
