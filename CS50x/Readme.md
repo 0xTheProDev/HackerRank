@@ -12,10 +12,10 @@ Open to CS50x students around the world (and friends). Solve as many problems (i
 
 # HOW TO PARTICIPATE
 
->> Sign up for a (free) HackerRank account at https://www.hackerrank.com/signup.
->> Register yourself with CS50 for CS50x Coding Contest 2016 at http://cs50.edx.org/register.
->> Form a team with 0, 1, 2, or 3 classmates (or friends). At least one team member should be taking or should have taken CS50x. Either you or one of your teammates should then create your team at https://www.hackerrank.com/settings/teams, selecting "CS50x Coding Contest 2016" where prompted, and add everyone else to the team. You're welcome to participate in CS50x Coding Contest 2016 alone, but you'll still need to create a team (with just you on it).
->> Visit https://www.hackerrank.com/cs50x-2016 to sign up for the contest itself, which officially begins on Friday, 29 July 2016, in all time zones! You're welcome to spend as much time on the contest as you'd like, so long as you finish by Sunday, 31 July 2016, in your own time zone. All challenges must be solved in C!
+  1. Sign up for a (free) HackerRank account at https://www.hackerrank.com/signup.
+  2. Register yourself with CS50 for CS50x Coding Contest 2016 at http://cs50.edx.org/register.
+  3. Form a team with 0, 1, 2, or 3 classmates (or friends). At least one team member should be taking or should have taken CS50x. Either you or one of your teammates should then create your team at https://www.hackerrank.com/settings/teams, selecting "CS50x Coding Contest 2016" where prompted, and add everyone else to the team. You're welcome to participate in CS50x Coding Contest 2016 alone, but you'll still need to create a team (with just you on it).
+  4. Visit https://www.hackerrank.com/cs50x-2016 to sign up for the contest itself, which officially begins on Friday, 29 July 2016, in all time zones! You're welcome to spend as much time on the contest as you'd like, so long as you finish by Sunday, 31 July 2016, in your own time zone. All challenges must be solved in C!
 
 If you'd like to familiarize yourself with HackerRank's interface before CS50x Coding Contest 2016 begins, sign up for some practice challenges at https://www.hackerrank.com/cs50x-2016-practice! No need to create a team to practice.
 
