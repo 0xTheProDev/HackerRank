@@ -1,7 +1,7 @@
 # CS50x Coding Contest 
 Link: https://www.hackerrank.com/cs50x-2016 
 
-## Info 
+ ## Info 
 
 CS50 and HackerRank present the first-ever...
 
@@ -34,7 +34,7 @@ Your team is welcome to work together online or in person by yourselves, but if 
  ## Prizes 
 
 Prizes will be awarded pseudorandomly to (a few) teams who answer the most questions correctly.
-## Rules
+ ## Rules
 
 * Please refrain from discussing strategy during the contest.
 * All submissions are run through a plagiarism detector. Any case of code plagiarism will disqualify both users from the contest.
